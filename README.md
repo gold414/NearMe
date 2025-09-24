@@ -159,12 +159,15 @@ viswanathar.html
 
 ```
 ## OUTPUT
-![alt text](<Screenshot (37).png>)
-![alt text](<Screenshot (40).png>)
-![alt text](<Screenshot (41).png>)
-![alt text](<Screenshot (42).png>)
-![alt text](<Screenshot (43).png>)
-![alt text](<Screenshot (44).png>)
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/b360e749-68f0-4547-96e7-cb15c312cdfb" />
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/5898ecf7-90f7-4143-8e22-b0917b26bc49" />
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/c1d3d96e-6422-4cfa-b66a-0db502599d75" />
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/dcd006c3-a8c5-4840-ad08-e14246374c8e" />
+<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/51de0b5f-3613-449b-9151-793b432b6a3f" />
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/58e6ea55-db4a-4a44-b8ed-cd461a0fdd52" />
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
